@@ -53,7 +53,7 @@ cd React-MovieFlix
 npm install
 ```
 
-### 3️⃣ Create `.env` file
+### 3️⃣ Replace the `.env.example` file by creating a `.env.local` file and add your credentials
 
     VITE_TMDB_API_KEY=your_tmdb_api_key_here
 
