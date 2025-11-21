@@ -55,7 +55,10 @@ npm install
 
 ### 3️⃣ Replace the `.env.example` file by creating a `.env.local` file and add your credentials
 
-    VITE_TMDB_API_KEY=your_tmdb_api_key_here
+    VITE_TMDB_API_KEY=[Your TMDB API Key]
+    VITE_APPWRITE_PROJECT_ID =[Your Appwrite ID]
+    VITE_APPWRITE_DATABASE_ID= [Your Appwrite Database ID]
+    VITE_APPWRITE_TABLE_COLLECTION_ID=[Your Appwrite Table ID]
 
 ### 4️⃣ Start the development server
 
