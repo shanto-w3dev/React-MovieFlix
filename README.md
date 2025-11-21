@@ -7,7 +7,7 @@ browse results in a clean UI.
 
 ## 🚀 Live Demo
 
-*Coming soon...*
+https://cloud.shanto.net/
 
 ## 📦 Features
 
